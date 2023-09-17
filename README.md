@@ -5,7 +5,7 @@
   
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhshy1839&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/hshy1839)
 
-[![hshy1839's GitHub stats](https://github-readme-stats.vercel.app/api?username=hshy1839&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/hshy1839/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hshy1839&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/hshy1839/github-readme-stats)
 <br>
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hshy1839)](https://solved.ac/hshy1839/)
 <br>
