@@ -21,6 +21,14 @@
   
 
 </div><br>
+## Portfolio
+<div style="display:flex; flex-direction:row;">
+  충북 지역 관광 활성화를 위한 AI 기반 명소 추천 및 여행 코스 제안 모델 (마음 AI 해커톤 최우수 수상작)
+  <a href="https://www.youtube.com/watch?v=fglIrjG_e4M&t=1s">YouTube</a>
+     <hr>
+ 필라테스 교육 웹 플랫폼 (외주 계약에 기반한 프로젝트)
+    <a href="https://lululalazon.com/">HomePage</a><hr>
+</div>
 
  
 ## 📞 Contact 📞
@@ -61,13 +69,5 @@
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
     <br>
-</div><br>
-## Portfolio
-<div style="display:flex; flex-direction:row;">
-  충북 지역 관광 활성화를 위한 AI 기반 명소 추천 및 여행 코스 제안 모델 (마음 AI 해커톤 최우수 수상작)
-  <a href="https://www.youtube.com/watch?v=fglIrjG_e4M&t=1s">YouTube</a>
-     <hr>
- 필라테스 교육 웹 플랫폼 (외주 계약에 기반한 프로젝트)
-    <a href="https://lululalazon.com/">HomePage</a><hr>
 </div>
 </div>
