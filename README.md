@@ -9,7 +9,7 @@
 
 
 <br>
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hshy1839)](https://solved.ac/hshy1839/)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hshy1839)](https://solved.ac/hshy1839)
 <br>
 
 ## 💻 DEV's log 💻
