@@ -2,7 +2,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20JeongMin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
-  
+  [![Doobyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=hshy1839)](https://github.com/hshy1839/github-readme-stats)
+  <br>
 [![JeongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hshy1839&show_icons=true&theme=dark&count_private=true)](https://github.com/hshy1839/github-readme-stats)
 
 
