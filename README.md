@@ -28,6 +28,7 @@
   <br>
  필라테스 교육 웹 플랫폼 (외주 계약에 기반한 프로젝트)
     <a href="https://lululalazon.com/">HomePage</a><br>
+  <img src="./Desktop 2023.10.29 - 00.06.31.02.gif">
 </div>
 
  
