@@ -25,6 +25,7 @@
 <div style="display:flex; flex-direction:row;">
   충북 지역 관광 활성화를 위한 AI 기반 명소 추천 및 여행 코스 제안 모델 (마음 AI 해커톤 최우수 수상작)
   <a href="https://www.youtube.com/watch?v=fglIrjG_e4M&t=1s">YouTube</a>
+  <img src="./maumai.gif">
   <br>
  필라테스 교육 웹 플랫폼 (외주 계약에 기반한 프로젝트)
     <a href="https://lululalazon.com/">HomePage</a><br>
