@@ -23,7 +23,6 @@
 </div><br>
 <div style="display:flex; flex-direction:row;">
   ▶ 충북 지역 관광 활성화를 위한 AI 기반 명소 추천 및 여행 코스 제안 모델 (마음 AI 해커톤 최우수 수상작)
-  <a href="https://www.youtube.com/watch?v=fglIrjG_e4M&t=1s">YouTube</a>
   <br>
   <br>
   <img src="./maumai.gif">
