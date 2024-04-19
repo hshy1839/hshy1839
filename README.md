@@ -7,8 +7,8 @@
 [![JeongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hshy1839&show_icons=true&theme=dark&count_private=true)](https://github.com/hshy1839/github-readme-stats)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hshy1839)](https://solved.ac/hshy1839)
-<br>
+/* [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hshy1839)](https://solved.ac/hshy1839)
+<br> */
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
